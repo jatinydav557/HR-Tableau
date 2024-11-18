@@ -64,7 +64,7 @@ The data used in this project consists of HR records, including:
 ---
 
 ## Visual Preview
-![Dashboard Screenshot](./HR_Summary.png)
+Open HR_Summary.png in the repository
 
 ---
 
